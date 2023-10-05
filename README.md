@@ -6,6 +6,9 @@ Mabahes 1 Project (Eazy Shop)
 
 This is an online shopping platform that has been meticulously crafted using cutting-edge technologies. The frontend is built with React.js, the backend is powered by Node.js, and MongoDB serves as the robust database underpinning the system.
 
+![image](https://github.com/Erfan2001/EazyShop/assets/69463039/84ef9e51-4790-4d17-8f98-80ab0f97f5b6)
+
+
 ## Team members and files:
 
 Team Members 😎:
