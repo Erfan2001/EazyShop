@@ -8,6 +8,8 @@ This is an online shopping platform that has been meticulously crafted using cut
 
 ![image](https://github.com/Erfan2001/EazyShop/assets/69463039/84ef9e51-4790-4d17-8f98-80ab0f97f5b6)
 
+![image](https://github.com/Erfan2001/EazyShop/assets/69463039/b32f7d61-21ed-49f4-8aee-68790d5d2f89)
+
 
 ## Team members and files:
 
@@ -19,7 +21,7 @@ Master: Ms.Ezhei
 
 Presentation Link: https://drive.google.com/file/d/1KnmyW2jrXiLd--7ZMIXyNcWO7SxFVnD-/view?usp=sharing
 
-Overview : Generally our project is based on 
+Overview: Generally our project is based on 
 
 1) ReactJs for Frontend
 2) NodeJs for Backend
